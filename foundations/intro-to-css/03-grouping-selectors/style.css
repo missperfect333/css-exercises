@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+.overlord { 
+    background-color: hsl(120, 23%, 52%); 
+    color: whitesmoke
+
+}
+
+.overqueen {
+    background-color: #ffff00;
+
+}
+
+.overlord.overqueen {
+    font-family: Helvetica,'Times New Roman', sans-serif;
+    font-size: 28px;
+}
